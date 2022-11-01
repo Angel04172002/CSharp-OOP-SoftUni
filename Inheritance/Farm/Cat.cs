@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Farm
 {
-    internal class Cat
+    public class Cat : Animal
     {
+        public void Meow()
+        {
+            Console.WriteLine("meowing...");
+        }
     }
 }
