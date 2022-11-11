@@ -1,4 +1,4 @@
-using BorderControl.Core;
+﻿using BorderControl.Core;
 using BorderControl.IO;
 using BorderControl.IO.Interfaces;
 
